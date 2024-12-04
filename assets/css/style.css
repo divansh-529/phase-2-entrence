@@ -14,7 +14,6 @@
 }
 
 * {
-
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -22,6 +21,7 @@
     text-decoration: none;
 }
 
+/* -----------hero section --------------- */
 .hero-section {
     background-image: url(/assets/images/webp/section-1-bg-img.webp);
     background-size: cover;
@@ -51,7 +51,6 @@
     line-height: 66px;
     text-align: left;
     color: white;
-
 }
 
 .ai-tech {
@@ -85,7 +84,6 @@
 .get-funded-button:hover {
     color: #4c57ff;
     background-color: white;
-
 }
 
 .img-one {
@@ -99,7 +97,6 @@
 .absolute-img-hero-section-one {
     top: 100px;
     left: 141px;
-
 }
 
 .image-4 {
@@ -112,6 +109,7 @@
     right: 128px;
 }
 
+/* ----------section 2 ------------ */
 .sec-2 {
     margin-top: -2px;
     background-color: #0E1122;
@@ -139,9 +137,9 @@
     letter-spacing: 0.08em;
     text-align: center;
     color: white;
-
 }
 
+/* ---------section 3 -------------- */
 .sec-3 {
     overflow: hidden;
     padding-top: 120px;
@@ -183,7 +181,6 @@
     font-size: var(--fs-subheading);
     font-weight: 500;
     line-height: 30px;
-
     margin-top: 4px;
 }
 
@@ -209,9 +206,9 @@
 .apply-now:hover {
     color: #4c57ff;
     background-color: white;
-
 }
 
+/* --------------section 4------------------ */
 .sec-4 {
     padding-top: 88px;
     padding-bottom: 88px;
@@ -228,10 +225,7 @@
 .sec-4-bx-3 {
     max-width: 208px;
     width: 100%;
-
-
 }
-
 
 .sec-4-bx-2,
 .sec-4-bx-4 {
@@ -258,6 +252,7 @@
     color: white;
 }
 
+/* -------------section-5------------- */
 .faq {
     background-color: #EFECE6;
     padding-top: 70px;
@@ -281,7 +276,6 @@
     letter-spacing: 0.08em;
     text-align: center;
     color: #76767F;
-
 }
 
 .learn-more-with-faq {
@@ -351,6 +345,7 @@
 
 }
 
+/* ------------section -6 ------------ */
 .sec-6 {
     padding-top: 50px;
     padding-bottom: 50px;
@@ -395,6 +390,7 @@
     background-color: white;
 }
 
+/* ----------section-7-------------- */
 footer {
     padding-left: 52px;
     padding-right: 52px;
