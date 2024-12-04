@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const content = document.getElementById("content");
         preloader.style.display = "none";
         content.style.display = "bloc";
-    }, 4000);
+    }, 1000);
 });
 
 

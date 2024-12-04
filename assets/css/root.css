@@ -9,6 +9,7 @@
     --fs-7xl: 28px;
     --fs-8xl: 30px;
     --fs-9xl: 32px;
+    --fs-10xl: 40px;
     --fs-11xl: 50px;
 }
 
@@ -58,6 +59,7 @@
         --fs-7xl: 24px;
         --fs-8xl: 26px;
         --fs-9xl: 28px;
+        --fs-10xl: 36px;
         --fs-11xl: 42px;
     }
 
@@ -74,6 +76,7 @@
         --fs-7xl: 24px;
         --fs-8xl: 26px;
         --fs-9xl: 28px;
+        --fs-10xl: 28px;
     }
 
 }
