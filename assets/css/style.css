@@ -46,7 +46,7 @@
 
     font-family: Abril Display;
     margin-bottom: 24px;
-    font-size: 62.12px;
+    font-size: var(--fs-12xl);
     font-weight: 700;
     line-height: 66px;
     text-align: left;
@@ -57,7 +57,7 @@
 .ai-tech {
     max-width: 408px;
     font-family: Poppins;
-    font-size: 22px;
+    font-size: var(--fs-subheading);
     font-weight: 500;
     line-height: 30px;
     margin-bottom: 24px;
@@ -180,7 +180,7 @@
 
 .bu-analizing {
     font-family: Poppins;
-    font-size: 22px;
+    font-size: var(--fs-subheading);
     font-weight: 500;
     line-height: 30px;
 
